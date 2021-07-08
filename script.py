@@ -29,14 +29,14 @@ Bot will automatically search for your file and give links to that!
 <b>© @Mo_Tech_YT</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot</b>
+    ABOUT_MSG = """⭕️<b> ME : A.PUNISHER</b>
     
-⭕️<b>Creater :</b> @MRK_YT
+⭕️<b>Creater :</b> @punisherofc
 
-⭕️<b>Language :</b> <code>Python3</code>
+⭕️<b>Language :</b> <code>Malayalam</code>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>🛡️</a> 
 
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/d_oX4b7ucWM'>Video Link</a> 
+⭕️<b>WEBSERIES :</b> <a href='https://t.me/srsuggestionsseries'>Video Link</a> 
 
 """
