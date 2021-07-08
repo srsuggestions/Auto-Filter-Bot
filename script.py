@@ -11,7 +11,8 @@ class script(object):
 
     HELP_MSG = """<b>As.Punisher</b>
 <i>    
-മതിയട നിർത്തി പോടാ
+മതിയട നിർത്തി പോടാ..🤣
+      JOIN - @srsuggestionsofficial
 </i>
 
 <b>© @punisherofc</b>"""
