@@ -9,18 +9,9 @@ class script(object):
 4 More Click <i>help</i></b>"""
 
 
-    HELP_MSG = """<b>How to use the bot??</b>
+    HELP_MSG = """<b>As.Punisher</b>
 <i>    
-* Add user account to your channel !
-
-* Add bot to group with admin rights.
-
-* Once deployed and bot is started, send a message to channel (must do step)
-
-* Bot will work now :)
-
-No need add each filter again!
-Bot will automatically search for your file and give links to that!
+മതിയട നിർത്തി പോടാ
 </i>
 
 <b>© @punisherofc</b>"""
@@ -30,9 +21,9 @@ Bot will automatically search for your file and give links to that!
     
 ⭕️<b>Creater :</b> @punisherofc
 
-⭕️<b>Language :</b> <code>Malayalam</code>
+⭕️<b>OG NAME :</b> <code>MUSAFIR T.M</code>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>🛡️</a> 
+⭕️<b>PARTNER :</b> <a href='https://docs.pyrogram.org/'>MNZKS</a> 
 
 ⭕️<b>Personal:</b> <a href='https://t.me/mnzks'>OFFICIAL</a> 
 
