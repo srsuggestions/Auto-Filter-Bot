@@ -3,13 +3,10 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
+🤭 എന്നെ നിർമിച്ചിരിക്കുന്നത് srsuggestionsofficial ഗ്രൂപ്പിലേക്ക് ആണ്.
+എന്തായാലും സ്റ്റാർട്ട് അടിച്ചതല്ലെ ഇനി ആ താഴെ കാണുന്ന നമ്മുടെ ഒഫീഷ്യൽ ചന്നെൽ കൂടി Subscribe ചെയ്തിട്ട് പൊക്കോ...🤣🤣
 
-Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
-
-So no need to add filters for your files or movies from now on!
-
-For more click <i>help</i></b>"""
+4 More Click <i>help</i></b>"""
 
 
     HELP_MSG = """<b>How to use the bot??</b>
@@ -26,7 +23,7 @@ No need add each filter again!
 Bot will automatically search for your file and give links to that!
 </i>
 
-<b>© @Mo_Tech_YT</b>"""
+<b>© @punisherofc</b>"""
 
 
     ABOUT_MSG = """⭕️<b> ME : A.PUNISHER</b>
@@ -37,6 +34,6 @@ Bot will automatically search for your file and give links to that!
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>🛡️</a> 
 
-⭕️<b>WEBSERIES :</b> <a href='https://t.me/srsuggestionsseries'>Video Link</a> 
+⭕️<b>Personal:</b> <a href='https://t.me/mnzks'>OFFICIAL</a> 
 
 """
