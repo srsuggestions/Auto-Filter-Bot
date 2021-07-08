@@ -12,7 +12,7 @@
 
   </a>
   
-  <a href="https://github.com/MRK-YT/Auto-Filter-Bot/fork">
+  <a href="https://github.com/srsuggestions/Auto-Filter-Bot/fork">
     <img src="https://img.shields.io/github/forks/MRK-YT/Auto-Filter-Bot?label=Fork&style=social">
 
   </a>  
@@ -41,7 +41,7 @@
 ## Deploy
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/Auto-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/srsuggestions/Auto-Filter-Bot)
 
 
 
